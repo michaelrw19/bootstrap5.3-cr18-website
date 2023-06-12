@@ -1,4 +1,4 @@
 # bootstrap5.3-cr18-website
 An online delivery service UI made with bootstrap (ver 5.3).
 
-To see the website, just run index.html in any browser that supports bootstrap or go to the following link: https://michaelrw19.github.io/index.html
+To see the website, just run index.html in any browser that supports bootstrap or go to the following link: https://michaelrw19.github.io/bootstrapCR18/index.html
